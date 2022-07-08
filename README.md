@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Somya Singhal</h1>
+![Adora Montminy (1)](https://user-images.githubusercontent.com/88088520/177931802-0988f087-04bf-4d82-84b6-fe18eb478396.png)
+
 <h3 align="center">👩‍💻 Final Year Computer Science Undergraduate from NIT AGARTALA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somya-singhal&label=Profile%20views&color=0e75b6&style=flat" alt="somya-singhal" /> </p>
