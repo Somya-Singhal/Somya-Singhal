@@ -11,7 +11,7 @@
 
 - 👯 I’m practicing regularly on **LeetCode and GeeksForGeeks**
 
-- 👨‍💻 All of my projects are available at [https://somya-singhal.github.io/Portfolio-Website.github.io/](https://somya-singhal.github.io/Portfolio-Website.github.io/)
+- 👨‍💻 All of my projects are available at [https://somya-singhal.github.io/Somya-Mansion/](https://somya-singhal.github.io/Portfolio-Website.github.io/)
 
 - 📫 How to reach me **email-> singhalsomya14@gmail.com, contact no.->9634707333**
 
